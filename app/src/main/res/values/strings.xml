@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Auto T-Shirt App</string>
+    <string name="store_name" translatable="false">Auto T-Shirt Shop</string>
+    <string name="google_pay_status_unavailable" translatable="false">Unfortunately, Google Pay is not available on this phone.</string>
+    <string name="google_pay_status_checking" translatable="false">Checking if Google Pay is available...</string>
+    <string name="payments_show_name" translatable="false">Successfully received payment data for %s!</string>
+    <string name="payment_title">Mens Tech Shell Full-Zip</string>
+    <string name="payment_subtitle">A versatile full-zip that you can wear all day long and even...</string>
+    <string name="payment_price">$50.20</string>
+</resources>
